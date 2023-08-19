@@ -1,9 +1,16 @@
 #ifndef MAIN_H
 #define MAIN_H
+<<<<<<< HEAD
 
 #include <stdio.h>
 #include <stdarg.h>
 #include <unistd.h>
+=======
+#include<stdio.h>
+#include<stdlib.h>
+#include<stdarg.h>
+int _putchar(char c);
+>>>>>>> 17c94ead06a59a5e4ec805ec2b4b38483e40fbd3
 
 #define UNUSED(x) (void)(x)
 #define BUFF_SIZE 1024
